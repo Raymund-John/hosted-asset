@@ -145,13 +145,8 @@ const About = props => {
 
 const Project = props => {
   const tech = {
-    sass: "fab fa-sass",
     css: "fab fa-css3-alt",
     js: "fab fa-js-square",
-    react: "fab fa-react",
-    vue: "fab fa-vuejs",
-    d3: "far fa-chart-bar",
-    node: "fab fa-node" };
 
 
   const link = props.link || "http://";
@@ -194,9 +189,7 @@ const Project = props => {
 
 };
 
-/***********************
-  Projects Component
- ***********************/
+/*Projects Component*/
 
 const Projects = props => {
   return /*#__PURE__*/(
