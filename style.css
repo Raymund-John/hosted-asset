@@ -488,11 +488,11 @@ a:active {
 }
 
 #welcome-section .container h1 .line:first-child {
-  margin-left: 1rem;
+  margin-left: 0rem;
 }
 
 #welcome-section .container h1 .line:last-child {
-  margin-left: 2rem;
+  margin-left: 0rem;
 }
 
 #welcome-section .container .buttons {
